@@ -21,7 +21,7 @@ public class AvaliacaoFisicaController {
   }
 
   @GetMapping
-  public List<AvaliacaoFisica> getAll(){
+  public List<AvaliacaoFisica> getAll() {
     return service.getAll();
   }
 
