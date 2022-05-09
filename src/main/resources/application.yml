@@ -4,7 +4,7 @@ server.port: 8081
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/academia?useTimezone=true&serverTimezone=UTC&useLegacyDate
-    username: cami
+    username: eriic
     password: root
   jpa:
     show-sql: true
